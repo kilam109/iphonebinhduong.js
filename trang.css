@@ -70,7 +70,7 @@ h2.date-header{display:none}
 h2{line-height:1.4em;text-transform:none;color:#333;margin:.5em 0 .25em}
 h3.date-header{text-transform:none;font:normal 16px bodoni;color:#666;line-height:1.2em;margin:.1em 0}
 .post{margin:10px 5px;padding:10px 15px;background:#fff;border:1px solid #ddd;border-bottom-color: #ccc;-moz-box-shadow: 0 -1px 0 #fff, 0 1px 1px rgba(0,0,0,0.06);-webkit-box-shadow: 0 -1px 0 #fff, 0 1px 1px rgba(0,0,0,0.06);box-shadow: 0 -1px 0 #fff, 0 1px 1px rgba(0,0,0,0.06);}
-.post h1,.post h2{font-family: "fujiyama";font-size:240%;line-height:1.2em;color:#333;margin:.0em 0 0;padding:4px 0;font-weight:300}
+.post h1,.post h2{font-family: "fujiyama";font-size:240%;line-height:1.2em;color:#000000;margin:.0em 0 0;padding:4px 0;font-weight:300}
 .post h1 a,.post h1 a:visited,.post h1 strong,.post h2 a,.post h2 a:visited,.post h2 strong{display:block;text-decoration:none;color:#333;}
 .post h1 strong,.post h1 a:hover,.post h2 strong,.post h2 a:hover{color:#0088b2}
 .post-body{padding-top:10px;font:17px "bodoni";margin:1.0em 0 .75em;line-height:1.8em;}
